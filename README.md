@@ -10,16 +10,16 @@
 </ul>
 </br>
 <h2>Prompts utilizadas</h2>
-<div style="border: solid #000 2px; border-radius: 10px; padding: 20px">
+<div style="border: solid blue 2px; border-radius: 10px; padding: 20px">
     <h3>Chat GPT</h3>
     <h4>Gerar título</h4>
     <p>
         crie um titulo para um ebook sobre javascript, do nicho de desenvolvimento web
 
         {REGRAS}
-        o tema deve ser sobre DRAGON BALL
-        o titulo deve ser curto e ao mesmo tempo interessante
-        liste 5 variações
+        >o tema deve ser sobre DRAGON BALL
+        >o titulo deve ser curto e ao mesmo tempo interessante
+        >liste 5 variações
 </p>
 
    <h4>Gerar Conteúdo</h4>
@@ -44,7 +44,7 @@
 
 </br>
 
-<div style="border: solid #000 2px; border-radius: 10px; padding: 20px">
+<div style="border: solid blue 2px; border-radius: 10px; padding: 20px">
     <h3>Copilot</h3>
     <h4>Gerar imagem do Goku lendo um livro de JavaScript</h4>
     <p>
@@ -71,3 +71,7 @@
         "Generate a 2D image featuring Goku in Super Saiyan mode, immersed in reading a book about JAVASCRIPT. Ensure that the title 'JAVASCRIPT' is prominently displayed on the book's cover. Goku should be depicted floating against a clear, continuous light blue sky background, devoid of mountains, clouds, or any other color. Please emphasize Goku's design to closely resemble that of the anime. Additionally, Goku should be the sole character depicted in the image."
 </p>
 </div>
+
+</br>
+
+<img src="image/goku-learning-js.png">
