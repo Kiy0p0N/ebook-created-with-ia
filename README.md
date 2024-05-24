@@ -1,6 +1,7 @@
 <h1>Ebook gerado usando I.A.</h1>
 <p>Projeto proposto no bootcamp de inteligência artificial do Santander em parceria com a Dio.</p>
 <p>O objetivo era gerar um ebook utilizando pricipalmente o Chat GPT.</p>
+<p><a href="https://github.com/Kiy0p0N/ebook-created-with-ia/blob/main/output/ebook%20-%20javascript.pdf">CLIQUE AQUI PARA VER O EBOOK</a></p>
 </br>
 
 <h2>💻Tecnologias utilizadas</h2>
